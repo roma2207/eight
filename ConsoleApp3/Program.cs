@@ -12,11 +12,31 @@ namespace eight
         static void Main(string[] args)
         {
             Console.WriteLine("Type some text");
-            string text;
-            text = Console.ReadLine();
+            string text = Console.ReadLine();
             string letter = "@";
-            int count = text.Where(a => a.ToString() == letter).ToList().Count();
-            Console.WriteLine(count);
+            int counter;
+            int result = 0;
+
+            
+            foreach (char c in text)
+            {
+                counter = text.Where(a => a.ToString() == letter).ToList().Count();
+                if (letter == "@")
+                {
+                    counter++;
+                    if (letter == "@")
+                    {
+                        result++;
+                        counter = 0;
+                    }
+                }
+                else
+                {
+                    counter = 0;
+                }
+            }
+                
+            Console.WriteLine(result);
             Console.ReadKey();
         }
     }

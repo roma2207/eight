@@ -5,3 +5,10 @@ C:\Users\Grace02\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.cspr
 C:\Users\Grace02\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
 C:\Users\Grace02\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
 C:\Users\Grace02\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\Grace02\dev\eight\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\Grace02\dev\eight\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Grace02\dev\eight\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Grace02\dev\eight\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\Grace02\dev\eight\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Grace02\dev\eight\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Grace02\dev\eight\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
